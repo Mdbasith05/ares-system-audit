@@ -100,4 +100,4 @@ python local_lab.py
 - **LinkedIn:** [linkedin.com/in/mohammedbasith05](https://www.linkedin.com/in/mohammedbasith05)  
 - **GitHub:** [github.com/Mdbasith05](https://github.com/Mdbasith05)  
 - **Email:** [mohammedbasith490@gmail.com](mailto:mohammedbasith490@gmail.com)  
-- **Location:** Chennai, India (Ready for Immediate Relocation to Dubai / UAE on Visit Visa)
+- **Location:** Chennai, India (Ready for Immediate Relocation to Dubai / UAE)
